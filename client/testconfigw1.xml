@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<testconfig>
+   <serveraddress>http://localhost:8001</serveraddress>
+   <user id="01">
+      <username>matti</username>
+      <password>salasana</password>
+   </user>
+</testconfig>
